@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tahoeivanova
-- 👀 I’m interested in python, arduino and AI.
-- 🌱 I’m currently learning neuralnets.
-- 💞️ I’m looking to collaborate on music synthesis, robotics, NLP.
+- 👀 I’m interested in python, arduino, AI.
+- 🌱 I’m currently learning neuralnets, Pure Data and Touchdesigner.
+- 💞️ I’m looking to collaborate on music synthesis, sound&light sync.
 - 📫 How to reach me - tahoeivanova@gmail.com , telegram - @tahoe_ivanova
 
 <!---
